@@ -16,7 +16,7 @@ License
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/juliettengum/e-commerce-backend.git
+git clone https://github.com/juliettengum/juliette-E-commerce-Back-End
 Navigate to the Project Directory:
 bash
 Copy code
